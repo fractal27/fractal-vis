@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I",
+      "./include",
+      "-o",
+      "vis-fractal.o",
+      "vis-fractal.c"
+    ],
+    "directory": "/home/ganon/Personal/repos/fractal-gen",
+    "file": "/home/ganon/Personal/repos/fractal-gen/vis-fractal.c",
+    "output": "/home/ganon/Personal/repos/fractal-gen/vis-fractal.o"
+  }
+]
